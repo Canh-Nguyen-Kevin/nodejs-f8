@@ -1,0 +1,30 @@
+{
+  "name": "f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Canh-Nguyen-Kevin/nodejs-f8.git"
+  },
+  "keywords": [
+    "nodejs",
+    "f8"
+  ],
+  "author": "Kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Canh-Nguyen-Kevin/nodejs-f8/issues"
+  },
+  "homepage": "https://github.com/Canh-Nguyen-Kevin/nodejs-f8#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
